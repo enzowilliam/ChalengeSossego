@@ -1,7 +1,5 @@
 import React from 'react'
-import { RiUser5Fill, RiHome4Fill } from 'react-icons/ri'
-import { FiFileText } from 'react-icons/fi'
-import { CurrentStep, Step, Icon } from './styles'
+import { CurrentStep, Step } from './styles'
 import UserIcon from '../Icons/UserIcon'
 import AddressIcon from '../Icons/AddressIcon'
 import AboutIcon from '../Icons/AboutIcon'

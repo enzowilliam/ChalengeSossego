@@ -89,7 +89,7 @@ function App() {
             {!isLastStep ? (
               <NextButton
                 type="submit"
-                disabled={passwordError} /*onSubmit={validations()}/*/
+                disabled={passwordError} 
               >
                 Próximo passo
               </NextButton>
