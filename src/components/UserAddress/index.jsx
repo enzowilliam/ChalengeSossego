@@ -25,7 +25,7 @@ const UserAddress = ({ data, updateFieldHandler }) => {
           <label htmlFor="cep">CEP</label>
           <MediumInput
             styles
-            type="text"
+            type="number"
             name="cep"
             id="cep"
             required
@@ -74,7 +74,7 @@ const UserAddress = ({ data, updateFieldHandler }) => {
         <City>
           <label htmlFor="city">Cidade</label>
           <MediumInput
-            type="city"
+            type="text"
             name="city"
             id="city"
             required

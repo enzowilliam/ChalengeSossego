@@ -9,3 +9,8 @@ export const Step = styled.div`
   }
   margin-left: -125px
 `
+export const CurrentStep = styled.div`
+
+`
+
+
