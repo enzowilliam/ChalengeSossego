@@ -1,0 +1,10 @@
+.inputsContainer {
+  margin-left: 52px;
+  min-height: 420px;
+}
+
+label {
+  font-weight: 500px;
+  font-size: 1rem;
+}
+
