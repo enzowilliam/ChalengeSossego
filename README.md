@@ -13,6 +13,6 @@ yarn dev
 # About the project
 
 ```
-The project ess created in using React.js
+The project ess created using Reactjs
 With javascript and styled components
 ```
